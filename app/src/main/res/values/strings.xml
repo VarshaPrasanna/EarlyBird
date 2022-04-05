@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Early Bird</string>
+    <string name="web_client_id">AIzaSyAuxtJsU_8hKBzDpk0VIsZnRhwBifJc-sA</string>
+    <string name="disconnect">disconnect</string>
+    <string name="desc_google_icon">desc_google_icon</string>
+    <string name="title_text">title_text</string>
+    <string name="signed_out">signed_out</string>
+    <string name="loading" />
+    <string name="signed_in_fmt" />
+    <string name="early_bird">Early Bird</string>
+
+    <string name="cancel_alaram">Cancel Alaram</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="memory_challenge">Memory Challenge</string>
+</resources>
